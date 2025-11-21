@@ -1,0 +1,480 @@
+{
+  "734598": {
+    "id": 734598,
+    "adi": "Vicdan-Ahmet Güner Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.07511511465042",
+    "longitude": "37.419908899697425",
+    "zorunlu_hizmet": "1/4"
+  },
+  "734710": {
+    "id": 734710,
+    "adi": "Mehmet Çolakoğlu İlkokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.08332992047416",
+    "longitude": "37.38368528708975",
+    "zorunlu_hizmet": "1/5"
+  },
+  "773257": {
+    "id": 773257,
+    "adi": "İncilikaya İlkokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.05622121559902",
+    "longitude": "37.43140712419554",
+    "zorunlu_hizmet": "1/6"
+  },
+  "775567": {
+    "id": 775567,
+    "adi": "Nigar Erdemoğlu Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.08369872487935",
+    "longitude": "37.39746963355009",
+    "zorunlu_hizmet": "1/5"
+  },
+  "775602": {
+    "id": 775602,
+    "adi": "Kuzeyşehir İlkokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.22244684707214",
+    "longitude": "37.377482303449916",
+    "zorunlu_hizmet": "1/6"
+  },
+  "775603": {
+    "id": 775603,
+    "adi": "Dündarlı Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.25538490563329",
+    "longitude": "37.42122095536705",
+    "zorunlu_hizmet": "1/6"
+  },
+  "775920": {
+    "id": 775920,
+    "adi": "Kuzeykent İlkokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.2396761020978",
+    "longitude": "37.38974933143775",
+    "zorunlu_hizmet": "1/6"
+  },
+  "966497": {
+    "id": 966497,
+    "adi": "Hacı Lütfiye Şireci Rehberlik ve Araştırma Merkezi",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.080382642880245",
+    "longitude": "37.35917216130865",
+    "zorunlu_hizmet": "1/4"
+  },
+
+  "734579": {
+    "id": 734579,
+    "adi": "Mahmut Fehime Güleç Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.06395403080971",
+    "longitude": "37.40994220389568",
+    "zorunlu_hizmet": "1/5"
+  },
+  "734651": {
+    "id": 734651,
+    "adi": "Sadettın Batmazoğlu İlkokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.07362599552566",
+    "longitude": "37.40693346193859",
+    "zorunlu_hizmet": "1/5"
+  },
+  "734676": {
+    "id": 734676,
+    "adi": "Kılıçarslan Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.0801927775683",
+    "longitude": "37.37207081193053",
+    "zorunlu_hizmet": "1/4"
+  },
+  "734678": {
+    "id": 734678,
+    "adi": "Şehit Enes Kaya Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.09447854838821",
+    "longitude": "37.37197706942646",
+    "zorunlu_hizmet": "1/4"
+  },
+  "734713": {
+    "id": 734713,
+    "adi": "Mehmet Çolakoğlu Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.08380238827043",
+    "longitude": "37.38567427714221",
+    "zorunlu_hizmet": "1/5"
+  },
+  "734725": {
+    "id": 734725,
+    "adi": "Ticaret Borsası Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.07969676939688",
+    "longitude": "37.395116171562165",
+    "zorunlu_hizmet": "1/5"
+  },
+  "734726": {
+    "id": 734726,
+    "adi": "Nezihe Osman Atay ilkokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.07691595099614",
+    "longitude": "37.39041392835158",
+    "zorunlu_hizmet": "1/5"
+  },
+  "734761": {
+    "id": 734761,
+    "adi": "Şahinbey Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.0776081984339",
+    "longitude": "37.38302123013106",
+    "zorunlu_hizmet": "1/5"
+  },
+  "734921": {
+    "id": 734921,
+    "adi": "Şehit Onur Şükrü Özler İlkokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.10016474249593",
+    "longitude": "37.37894165875206",
+    "zorunlu_hizmet": "1/5"
+  },
+  "734922": {
+    "id": 734922,
+    "adi": "Yalangoz İlkokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.22217127476851",
+    "longitude": "37.430651952899524",
+    "zorunlu_hizmet": "1/6"
+  },
+  "734925": {
+    "id": 734925,
+    "adi": "Tekirsin Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.270863436282916",
+    "longitude": "37.38198087446706",
+    "zorunlu_hizmet": "1/6"
+  },
+  "734966": {
+    "id": 734966,
+    "adi": "Kıbrıs Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.270863436282916",
+    "longitude": "37.38198087446706",
+    "zorunlu_hizmet": "1/5"
+  },
+  "734984": {
+    "id": 734984,
+    "adi": "Bülbülzade Abdullah Edip Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.04852012027368",
+    "longitude": "37.44198062104974",
+    "zorunlu_hizmet": "1/6"
+  },
+  "734992": {
+    "id": 734992,
+    "adi": "Şehit Yakup Balbey İlkokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.04951820265259",
+    "longitude": "37.4402615183749",
+    "zorunlu_hizmet": "1/6"
+  },
+  "735004": {
+    "id": 735004,
+    "adi": "Köksalan Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.280691513213455",
+    "longitude": "37.24312247203193",
+    "zorunlu_hizmet": "1/6"
+  },
+  "735075": {
+    "id": 735075,
+    "adi": "Şehit Nafı Kıvanç İlkokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.08502539214597",
+    "longitude": "37.366505642632006",
+    "zorunlu_hizmet": "1/4"
+  },
+  "735097": {
+    "id": 735097,
+    "adi": "Bağbaşı Şehit Memik Ayçiçek Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.279346387966946",
+    "longitude": "37.36569497174109",
+    "zorunlu_hizmet": "1/6"
+  },
+  "735106": {
+    "id": 735106,
+    "adi": "Atalar İlkokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.171370777684324",
+    "longitude": "37.02416471334607",
+    "zorunlu_hizmet": "1/6"
+  },
+  "735114": {
+    "id": 735114,
+    "adi": "Aktoprak Hüseyin Cemal Karaata Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.08294217661312",
+    "longitude": "37.43277715400558",
+    "zorunlu_hizmet": "1/5"
+  },
+  "735126": {
+    "id": 735126,
+    "adi": "Ömer ve Sabriye Ersoy Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.06662528089605",
+    "longitude": "37.421057823297225",
+    "zorunlu_hizmet": "1/5"
+  },
+  "740051": {
+    "id": 740051,
+    "adi": "Emine Konukoğlu İmam Hatip Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.09135508057323",
+    "longitude": "37.42941416603167",
+    "zorunlu_hizmet": "1/4"
+  },
+  "749108": {
+    "id": 749108,
+    "adi": "Hacı Lütfiye Şireci Özel Eğitim Uygulama Okulu II. Kademe",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.08030435600017",
+    "longitude": "37.360818378486435",
+    "zorunlu_hizmet": "1/4"
+  },
+  "758634": {
+    "id": 758634,
+    "adi": "Gazikent Anadolu Lisesi",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.10302733942855",
+    "longitude": "37.42752479394554",
+    "zorunlu_hizmet": "1/4"
+  },
+  "761700": {
+    "id": 761700,
+    "adi": "Karacaburç Çok Programlı Anadolu Lisesi",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.23153007040053",
+    "longitude": "37.41035387128475",
+    "zorunlu_hizmet": "1/6"
+  },
+  "763386": {
+    "id": 763386,
+    "adi": "Şehit Erol Yanık Anadolu Lisesi",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.23153007040053",
+    "longitude": "37.41035387128475",
+    "zorunlu_hizmet": "1/4"
+  },
+  "764707": {
+    "id": 764707,
+    "adi": "Beylerbeyi Mesleki ve Teknik Anadolu Lisesi",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.129503066785034",
+    "longitude": "37.426650349729144",
+    "zorunlu_hizmet": "1/4"
+  },
+  "767977": {
+    "id": 767977,
+    "adi": "Gazişehir İlkokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.22938346081181",
+    "longitude": "37.3891190923641",
+    "zorunlu_hizmet": "1/6"
+  },
+  "768528": {
+    "id": 768528,
+    "adi": "Gönüllü Hizmet Vakfı İnal Aydınoğlu Güzel Sanatlar Lisesi",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.09677132806479",
+    "longitude": "37.35888138620653",
+    "zorunlu_hizmet": "1/4"
+  },
+  "768796": {
+    "id": 768796,
+    "adi": "Kültür Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.10285075405175",
+    "longitude": "37.3835384859929",
+    "zorunlu_hizmet": "1/4"
+  },
+  "773258": {
+    "id": 773258,
+    "adi": "İncilikaya Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.2379055582851",
+    "longitude": "37.38954419375782",
+    "zorunlu_hizmet": "1/6"
+  },
+  "774438": {
+    "id": 774438,
+    "adi": "Asım Kökoğlu Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.07845202714265",
+    "longitude": "37.382957253215984",
+    "zorunlu_hizmet": "1/4"
+  },
+  "775240": {
+    "id": 775240,
+    "adi": "Kuzeyşehir Anadolu Lisesi",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.224038791393006",
+    "longitude": "37.36794553942044",
+    "zorunlu_hizmet": "1/6"
+  },
+  "775270": {
+    "id": 775270,
+    "adi": "Atakent İlkokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.091171009865455",
+    "longitude": "37.43067445536126",
+    "zorunlu_hizmet": "1/4"
+  },
+  "775285": {
+    "id": 775285,
+    "adi": "Gönüllü Hizmet Vakfı Çağdaş Uygarlık Anadolu Lisesi",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.11461677666437",
+    "longitude": "37.392106748245084",
+    "zorunlu_hizmet": "1/4"
+  },
+  "775299": {
+    "id": 775299,
+    "adi": "Merinos İbrahim Erdemoğlu Anadolu Lisesi",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.084789411146325",
+    "longitude": "37.39583738390136",
+    "zorunlu_hizmet": "1/4"
+  },
+  "775417": {
+    "id": 775417,
+    "adi": "Kuzeyşehir Anaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.21773125496383",
+    "longitude": "37.38784798408523",
+    "zorunlu_hizmet": "1/6"
+  },
+  "775565": {
+    "id": 775565,
+    "adi": "Çağın-Onur Kardeşler Anaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.07662110928931",
+    "longitude": "37.37857615144667",
+    "zorunlu_hizmet": "1/4"
+  },
+  "775568": {
+    "id": 775568,
+    "adi": "Bedia-Mehmet Zeki Zorkirişçi İlkokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.083499665507624",
+    "longitude": "37.39776575152667",
+    "zorunlu_hizmet": "1/5"
+  },
+  "775615": {
+    "id": 775615,
+    "adi": "Şirinevler İlkokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.066006697418565",
+    "longitude": "37.41865122725225",
+    "zorunlu_hizmet": "1/5"
+  },
+  "775999": {
+    "id": 775999,
+    "adi": "Kuzeykent Anaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.23827983493203",
+    "longitude": "37.390196799477145",
+    "zorunlu_hizmet": "1/6"
+  },
+  "776496": {
+    "id": 776496,
+    "adi": "Aktoprak İlkokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.19195435338814",
+    "longitude": "37.32139557127841",
+    "zorunlu_hizmet": "1/5"
+  },
+  "776574": {
+    "id": 776574,
+    "adi": "Bilim Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.09863166474192",
+    "longitude": "37.42578820465298",
+    "zorunlu_hizmet": "1/4"
+  },
+  "776689": {
+    "id": 776689,
+    "adi": "Bilge Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.11139944658361",
+    "longitude": "37.40311383175995",
+    "zorunlu_hizmet": "1/4"
+  },
+  "776701": {
+    "id": 776701,
+    "adi": "Zeugma Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.1149458327854",
+    "longitude": "37.393174312275825",
+    "zorunlu_hizmet": "1/4"
+  },
+  "972646": {
+    "id": 972646,
+    "adi": "Aktoprak Anadolu Lisesi",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "latitude": "37.20119469807767",
+    "longitude": "37.31504001084893",
+    "zorunlu_hizmet": "1/5"
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "735292": {
+    "id": 735292,
+    "adi": "Kazım Karabekir İlkokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞAHİNBEY",
+    "latitude": "37.046139",
+    "longitude": "37.400639",
+    "zorunlu_hizmet": "1/5"
+  },
+  "735301": {
+    "id": 735301,
+    "adi": "Gaziantep Büyükşehir Belediyesi Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞAHİNBEY",
+    "latitude": "37.052313040001295",
+    "longitude": "37.39612841166402",
+    "zorunlu_hizmet": "1/5"
+  },
+  "735308": {
+    "id": 735308,
+    "adi": "Latife Özmimar İlkokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞAHİNBEY",
+    "latitude": "37.04252534279096",
+    "longitude": "37.402257602539606",
+    "zorunlu_hizmet": "1/5"
+  },
+  "735316": {
+    "id": 735316,
+    "adi": "Mustafa Necati Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞAHİNBEY",
+    "latitude": "37.05151388303965",
+    "longitude": "37.401336472740674",
+    "zorunlu_hizmet": "1/5"
+  },
+  "735324": {
+    "id": 735324,
+    "adi": "Şehit Abdulkadir Yıldırım Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞAHİNBEY",
+    "latitude": "37.0529911312819",
+    "longitude": "37.41594204912189",
+    "zorunlu_hizmet": "1/4"
+  },
+  "735339": {
+    "id": 735339,
+    "adi": "Şehit Polis Mehmet Çelik İlkokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞAHİNBEY",
+    "latitude": "37.053378863660136",
+    "longitude": "37.38945693721454",
+    "zorunlu_hizmet": "1/5"
+  },
+  "735349": {
+    "id": 735349,
+    "adi": "Türktepe İlkokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞAHİNBEY",
+    "latitude": "37.065082236665326",
+    "longitude": "37.38728236335145",
+    "zorunlu_hizmet": "1/5"
+  },
+  "736082": {
+    "id": 736082,
+    "adi": "Pakize Kemal Ögücü Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞAHİNBEY",
+    "latitude": "37.04872539375635",
+    "longitude": "37.420277925281425",
+    "zorunlu_hizmet": "1/4"
+  },
+  "736118": {
+    "id": 736118,
+    "adi": "Vehbi Dai İlkokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞAHİNBEY",
+    "latitude": "37.048045919475456",
+    "longitude": "37.410974396518135",
+    "zorunlu_hizmet": "1/4"
+  },
+  "745712": {
+    "id": 745712,
+    "adi": "Şehit Şahin Ticaret Mesleki ve Teknik Anadolu Lisesi",
+    "il": "GAZİANTEP",
+    "ilce": "ŞAHİNBEY",
+    "latitude": "37.03564259355331",
+    "longitude": "37.38306841127562",
+    "zorunlu_hizmet": "1/5"
+  },
+  "745769": {
+    "id": 745769,
+    "adi": "Üçoklar Mesleki ve Teknik Anadolu Lisesi",
+    "il": "GAZİANTEP",
+    "ilce": "ŞAHİNBEY",
+    "latitude": "37.0476385972768",
+    "longitude": "37.40658991098264",
+    "zorunlu_hizmet": "1/4"
+  },
+  "746021": {
+    "id": 746021,
+    "adi": "Şehit Ersin Yıldırım Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞAHİNBEY",
+    "latitude": "37.04338971495184",
+    "longitude": "37.3934285832824",
+    "zorunlu_hizmet": "1/4"
+  },
+  "764966": {
+    "id": 764966,
+    "adi": "Tutluk Anadolu Lisesi",
+    "il": "GAZİANTEP",
+    "ilce": "ŞAHİNBEY",
+    "latitude": "37.03558543263543",
+    "longitude": "37.38209081286754",
+    "zorunlu_hizmet": "1/5"
+  },
+  "764972": {
+    "id": 764972,
+    "adi": "Yeşilvadi Anadolu Lisesi",
+    "il": "GAZİANTEP",
+    "ilce": "ŞAHİNBEY",
+    "latitude": "37.035092252576",
+    "longitude": "37.41089339470743",
+    "zorunlu_hizmet": "1/5"
+  },
+  "769182": {
+    "id": 769182,
+    "adi": "Asef Çoban Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞAHİNBEY",
+    "latitude": "37.04704279511706",
+    "longitude": "37.38216242271053",
+    "zorunlu_hizmet": "1/4"
+  },
+  "773587": {
+    "id": 773587,
+    "adi": "Yamaçtepe Özel Eğitim Anaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞAHİNBEY",
+    "latitude": "37.04372774719444",
+    "longitude": "37.28690944875375",
+    "zorunlu_hizmet": "1/5"
+  },
+  "774458": {
+    "id": 774458,
+    "adi": "Narlıtepe Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞAHİNBEY",
+    "latitude": "37.03494122735454",
+    "longitude": "37.412545842096776",
+    "zorunlu_hizmet": "1/5"
+  },
+  "775349": {
+    "id": 775349,
+    "adi": "Kızılhisar İlkokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞAHİNBEY",
+    "latitude": "36.99023224490759",
+    "longitude": "37.30380292129096",
+    "zorunlu_hizmet": "1/5"
+  },
+  "775468": {
+    "id": 775468,
+    "adi": "Güneyşehir İlkokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞAHİNBEY",
+    "latitude": "37.03492627980548",
+    "longitude": "37.41229743636194",
+    "zorunlu_hizmet": "1/6"
+  },
+  "775469": {
+    "id": 775469,
+    "adi": "Karakuyu Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞAHİNBEY",
+    "latitude": "36.93863697475886",
+    "longitude": "37.276915923879066",
+    "zorunlu_hizmet": "1/6"
+  },
+  "776603": {
+    "id": 776603,
+    "adi": "Yeşilvadi Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞAHİNBEY",
+    "latitude": "37.02842268315322",
+    "longitude": "37.35490808324106",
+    "zorunlu_hizmet": "1/4"
+  },
+  "853534": {
+    "id": 853534,
+    "adi": "Can Alevli Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞAHİNBEY",
+    "latitude": "37.04719252909701",
+    "longitude": "37.40631248394392",
+    "zorunlu_hizmet": "1/4"
+  },
+  "149757": {
+    "id": 149757,
+    "adi": "Şahinbey Rehberlik ve Araştırma Merkezi",
+    "il": "GAZİANTEP",
+    "ilce": "ŞAHİNBEY",
+    "latitude": "",
+    "longitude": "37.36665225881086",
+    "zorunlu_hizmet": "3/4"
+  },
+  "716271": {
+    "id": 716271,
+    "adi": "23 Nisan Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞAHİNBEY",
+    "latitude": "37.04746285598481",
+    "longitude": "37.36786572436418",
+    "zorunlu_hizmet": "1/4"
+  },
+  "734870": {
+    "id": 734870,
+    "adi": "Fehmi Kasapoğlu İlkokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞAHİNBEY",
+    "latitude": "37.0430891416078",
+    "longitude": "37.41974316198886",
+    "zorunlu_hizmet": "1/4"
+  },
+  "734871": {
+    "id": 734871,
+    "adi": "Şehit Mustafa Ertürk Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞAHİNBEY",
+    "latitude": "37.04373275409801",
+    "longitude": "37.41828638842542",
+    "zorunlu_hizmet": "1/4"
+  },
+  "735216": {
+    "id": 735216,
+    "adi": "Mehmet Ünsal İlkokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞAHİNBEY",
+    "latitude": "37.04429408949021",
+    "longitude": "37.43386227378364",
+    "zorunlu_hizmet": "1/5"
+  },
+  "735267": {
+    "id": 735267,
+    "adi": "Şehit Servet Tomak Ortaokulu",
+    "il": "GAZİANTEP",
+    "ilce": "ŞAHİNBEY",
+    "latitude": "37.03904021456114",
+    "longitude": "37.39106134432088",
+    "zorunlu_hizmet": "1/5"
+  }
+}
